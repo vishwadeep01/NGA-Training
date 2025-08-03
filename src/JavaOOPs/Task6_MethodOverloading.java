@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 public class Task6_MethodOverloading {
     int add(int a, int b) {

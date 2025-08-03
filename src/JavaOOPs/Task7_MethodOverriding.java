@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 class Animal {
     void makeSound() {

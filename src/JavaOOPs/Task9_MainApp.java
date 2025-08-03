@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 import model.Student;
 import service.StudentService;

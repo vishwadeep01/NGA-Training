@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 public class Task1_Book {
 

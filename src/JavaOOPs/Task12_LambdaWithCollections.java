@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 interface Logger {
     default void logInfo() {

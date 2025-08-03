@@ -1,4 +1,4 @@
-package JavaOOPs;
+package javaoops;
 
 abstract class Shape {
     abstract double area();
