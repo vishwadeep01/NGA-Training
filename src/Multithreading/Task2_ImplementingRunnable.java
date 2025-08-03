@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 public class Task2_ImplementingRunnable implements Runnable {
     public void run() {

@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 public class Task1_ExtendsThread extends Thread {
     public void run() {

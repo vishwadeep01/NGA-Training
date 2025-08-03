@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 public class Task3_NumberPrinterThread extends Thread {
     public void run() {

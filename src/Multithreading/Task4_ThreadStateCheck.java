@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 public class Task4_ThreadStateCheck extends Thread {
     public void run() {

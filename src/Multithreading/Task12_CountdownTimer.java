@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 public class Task12_CountdownTimer extends Thread {
     public void run() {
